@@ -5,3 +5,38 @@
 .nav-spacing {
     margin: 0 0 10px;
 }
+
+.img-link {
+    text-decoration: none;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.article {
+    width: 500px; 
+    margin: 20px auto; 
+    padding: 30px; 
+    background-color: #fafafa;
+}
+.main-image {
+    display: block;
+    width: 800px;
+    margin: 0 auto;
+}
+.cover-image {
+    margin: 40px;
+    float: left;
+}
+.quote {
+    font-style: italic; 
+    font-size: 20px;
+}
+.strong-text {
+    font-style: normal; 
+    font-size: 24px; 
+    font-weight: bold; 
+    color: #ff0000;
+}
